@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/jelena-rtech/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/jelena-rtech/install -G Unix Makefiles
